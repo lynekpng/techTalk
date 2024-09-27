@@ -7,8 +7,8 @@
 1. [Tech Talk 1: Infinite Scroll](#tech-talk-1-infinite-scroll)
 2. [Tech Talk 2: Introduction to Software Design - The Principles](#tech-talk-2-introduction-to-software-design---the-principles)
 3. [Tech Talk 3: Design Patterns](#tech-talk-3-design-patterns)
-4. [Tech Talk 5: Deployment Strategies, Tools, and Best Practices](#tech-talk-5-deployment-strategies-tools-and-best-practices)
-5. [Tech Talk 4: Skeleton UI](#tech-talk-4-skeleton-ui)
+4. [Tech Talk 4: Deployment Strategies, Tools, and Best Practices](#tech-talk-5-deployment-strategies-tools-and-best-practices)
+5. [Tech Talk 5: Skeleton UI](#tech-talk-4-skeleton-ui)
 6. [License](#license)
 
 ---
