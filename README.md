@@ -7,7 +7,9 @@
 1. [Tech Talk 1: Infinite Scroll](#tech-talk-1-infinite-scroll)
 2. [Tech Talk 2: Introduction to Software Design - The Principles](#tech-talk-2-introduction-to-software-design---the-principles)
 3. [Tech Talk 3: Design Patterns](#tech-talk-3-design-patterns)
-5. [License](#license)
+4. [Tech Talk 5: Deployment Strategies, Tools, and Best Practices](#tech-talk-5-deployment-strategies-tools-and-best-practices)
+5. [Tech Talk 4: Skeleton UI](#tech-talk-4-skeleton-ui)
+6. [License](#license)
 
 ---
 
@@ -66,6 +68,34 @@ In this session, I discuss Design Patterns, which are proven solutions to common
 
 ---
 
+## Tech Talk 4: Deployment Strategies, Tools, and Best Practices
+
+### Overview
+This talk covers key strategies for deploying software, emphasizing **Continuous Integration/Continuous Deployment (CI/CD)** pipelines. It includes a breakdown of deployment strategies like Blue-Green, Rolling, and Canary, along with best practices for minimizing downtime.
+
+### Key Points
+- **What is SDLC?**: Understanding the Software Development Life Cycle.
+- **Deployment Strategies**: Overview of Blue-Green, Canary, Rolling, and Recreate deployments.
+- **CI/CD Pipelines**: How CI/CD can streamline software delivery.
+- **Best Practices**: Using version control, automation, and monitoring for smooth deployments.
+
+---
+
+
+## Tech Talk 5: Skeleton UI
+
+### Overview
+In this presentation, I dive into **Skeleton UI**, a modern, open-source UI library for Svelte. Designed to be responsive by default and super easy to use, Skeleton UI makes building sleek, responsive web apps simpler.
+
+### Key Points
+- **What is Skeleton UI?**: A brief introduction to Skeleton and its modern design.
+- **Advantages**: Why developers should consider using Skeleton UI.
+- **Installation**: A step-by-step guide to installing Skeleton in a Svelte project.
+- **Usage**: How to quickly start building beautiful, responsive interfaces using Skeleton UI.
+
+**Video Resource**: [Skeleton UI Tech Talk Video](https://youtu.be/P_A0qQ7AuK8?si=oX29qxndrr1cRPIz)
+
+---
 
 
 ## License
