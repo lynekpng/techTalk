@@ -48,8 +48,8 @@ This presentation introduces fundamental software design principles that guide d
 ### Resources
 - **Slides**: [Introduction to Software Design Presentation Slides](slides/introduction_to_software_design.pdf)
 
----
 
+---
 ## Tech Talk 3: Design Patterns
 
 ### Overview
@@ -65,9 +65,9 @@ In this session, I discuss Design Patterns, which are proven solutions to common
 
 ### Resources
 - **Slides**: [Design Patterns Presentation Slides](slides/design_patterns.pdf)
+  
 
 ---
-
 ## Tech Talk 4: Deployment Strategies, Tools, and Best Practices
 
 ### Overview
@@ -79,9 +79,9 @@ This talk covers key strategies for deploying software, emphasizing **Continuous
 - **CI/CD Pipelines**: How CI/CD can streamline software delivery.
 - **Best Practices**: Using version control, automation, and monitoring for smooth deployments.
 
+
+
 ---
-
-
 ## Tech Talk 5: Skeleton UI
 
 ### Overview
