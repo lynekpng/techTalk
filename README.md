@@ -98,7 +98,7 @@ In this presentation, I dive into **Skeleton UI**, a modern, open-source UI libr
 ### Resources
 
 - **Video Resource**: [Skeleton UI Video](https://youtu.be/P_A0qQ7AuK8?si=oX29qxndrr1cRPIz)
-- **Slides**: [Skeleton UI Tech Talk]:[Skeleton UI toolkit for Svelte slides](slides/skeleton.pdf)
+- **Slides**: [Skeleton UI toolkit for Svelte slides](slides/skeleton.pdf)
 ---
 
 
