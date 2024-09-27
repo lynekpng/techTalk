@@ -79,7 +79,8 @@ This talk covers key strategies for deploying software, emphasizing **Continuous
 - **CI/CD Pipelines**: How CI/CD can streamline software delivery.
 - **Best Practices**: Using version control, automation, and monitoring for smooth deployments.
 
-
+### Resources
+- **Slides**: [deployment strategies tools and best practices slides](slides/_Deployment%20Strategies,%20Tools,%20and%20Best%20Practices.pdf)
 
 ---
 ## Tech Talk 5: Skeleton UI
@@ -93,8 +94,10 @@ In this presentation, I dive into **Skeleton UI**, a modern, open-source UI libr
 - **Installation**: A step-by-step guide to installing Skeleton in a Svelte project.
 - **Usage**: How to quickly start building beautiful, responsive interfaces using Skeleton UI.
 
-**Video Resource**: [Skeleton UI Tech Talk Video](https://youtu.be/P_A0qQ7AuK8?si=oX29qxndrr1cRPIz)
-
+### Resources
+**Video Resource**: [Skeleton UI Video](https://youtu.be/P_A0qQ7AuK8?si=oX29qxndrr1cRPIz)
+**Example Repository** 
+**Slides**: [Skeleton UI Tech Talk]:[Skeleton UI toolkit for Svelte slides](slides/skeleton.pdf)
 ---
 
 
