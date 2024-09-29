@@ -94,10 +94,11 @@ In this presentation, I dive into **Skeleton UI**, a modern, open-source UI libr
 - **Installation**: A step-by-step guide to installing Skeleton in a Svelte project.
 - **Usage**: How to quickly start building beautiful, responsive interfaces using Skeleton UI.
 
+
 ### Resources
-**Video Resource**: [Skeleton UI Video](https://youtu.be/P_A0qQ7AuK8?si=oX29qxndrr1cRPIz)
-**Example Repository** 
-**Slides**: [Skeleton UI Tech Talk]:[Skeleton UI toolkit for Svelte slides](slides/skeleton.pdf)
+
+- **Video Resource**: [Skeleton UI Video](https://youtu.be/P_A0qQ7AuK8?si=oX29qxndrr1cRPIz)
+- **Slides**: [Skeleton UI toolkit for Svelte slides](slides/skeleton.pdf)
 ---
 
 
