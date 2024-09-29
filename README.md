@@ -61,7 +61,7 @@ In this session, I discuss Design Patterns, which are proven solutions to common
   - **Creational Patterns**: Singleton, Factory, Abstract Factory, Builder, Prototype.
   - **Structural Patterns**: Adapter, Composite, Decorator, Facade, Flyweight, Proxy.
   - **Behavioral Patterns**: Strategy, Observer, Command, Chain of Responsibility, Mediator, Memento.
-- **Real-world Examples**: How design patterns are applied in actual software development.
+- **Real-world Examples**: How design patterns can be applied in actual software and web development.
 
 ### Resources
 - **Slides**: [Design Patterns Presentation Slides](slides/design_patterns.pdf)
